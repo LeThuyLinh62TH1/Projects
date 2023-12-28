@@ -6,7 +6,7 @@
         <div class ="card-header">
             <div class ="row">
                 <div class ="col-md-6">
-                    <h3> Employees Details </h3>
+                    <h3> Journal Details </h3>
                 </div>
                 <div class="col-md-6">
                     <a href ="{{route('journals.create')}}" class="btn btn-primary float-end">+ Add new journal</a>
